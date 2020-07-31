@@ -13,7 +13,6 @@ function App() {
     setFootballTeam(team);
   }
 
-
   return (
     <BrowserRouter>
       <div className="App">
